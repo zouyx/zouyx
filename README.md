@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 * 😄 Concentrate on distribution service.
 * 📫 joezou@apache.org || https://zouyx.github.io/about/.
 * ✨ Now looking for a long long ............................. vacation.
+
+![zouyx's github stats](https://github-readme-stats.vercel.app/api?username=zouyx&show_icons=true&theme=radical)
