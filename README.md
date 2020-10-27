@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* 🤔 Apache Committer.
+* 🤔 Apache Dubbo-go PMC.
 * 😄 Concentrate on distribution service.
 * 📫 joezou@apache.org || https://zouyx.github.io/about/.
 * ✨ Now looking for a long long ............................. vacation.
+* ⚡ I’m currently learning cloud native.
 
 ![zouyx's github stats](https://github-readme-stats.vercel.app/api?username=zouyx&show_icons=true&theme=radical)
