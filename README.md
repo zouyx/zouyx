@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 * 📫 joezou@apache.org || https://zouyx.github.io/about/.
 * ✨ Now looking for a long long ............................. vacation.
 * ⚡ I’m currently learning cloud native.
+* 🤔 Reject 996 , WLB only.
 
 ![zouyx's github stats](https://github-readme-stats.vercel.app/api?username=zouyx&show_icons=true&theme=radical)
