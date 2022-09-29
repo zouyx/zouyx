@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* 🤔 Apache [Dubbo-go](https://github.com/apache/dubbo-go)/[apollo](https://github.com/apolloconfig/apollo) PMC.
+* 🤔 Apache [Dubbo](https://github.com/apache/dubbo) / [apollo](https://github.com/apolloconfig/apollo) PMC.
 * 😄 Concentrate on distribution service.
 * 📫 joezou@apache.org || https://zouyx.github.io/about/.
 * ✨ Now looking for a long long ............................. vacation.
