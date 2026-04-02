@@ -38,12 +38,6 @@
 
 ---
 
-#### 📊 GitHub Stats
-
-![zouyx's github stats](https://github-readme-stats.vercel.app/api?username=zouyx&show_icons=true&theme=radical)
-
----
-
 #### 📡 Find Me
 
 ![gongzhonghao](https://user-images.githubusercontent.com/3828072/112783769-a565ea00-9082-11eb-9fff-da60be251a87.png)
