@@ -6,7 +6,7 @@
 
 #### 🧠 About Me
 
-* 🤔 Apache [Dubbo](https://github.com/apache/dubbo) / [apollo](https://github.com/apolloconfig/apollo) PMC.
+* 🤔 Apache [Dubbo](https://github.com/apache/dubbo) / [apolloconfig](https://github.com/apolloconfig/apollo) PMC.
 * 😄 Concentrate on distributed services & **AI-native infrastructure**.
 * 📫 joezou@apache.org || https://zouyx.github.io/about/
 * 🚀 Exploring the intersection of **LLMs**, **cloud native**, and **distributed systems**.
