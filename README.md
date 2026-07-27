@@ -25,6 +25,10 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![LLM](https://img.shields.io/badge/-LLM%20%2F%20AI%20Agents-FF6F00?style=flat-square&logo=openai&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![AgentScope](https://img.shields.io/badge/-AgentScope-6C5CE7?style=flat-square)
+![Agent Runtime](https://img.shields.io/badge/-Agent%20Runtime-6C5CE7?style=flat-square)
+![Model Integration](https://img.shields.io/badge/-Model%20Integration-6C5CE7?style=flat-square)
+![State Persistence](https://img.shields.io/badge/-State%20Persistence-6C5CE7?style=flat-square)
 
 ---
 
