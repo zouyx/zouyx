@@ -7,10 +7,11 @@
 #### 🧠 About Me
 
 * 🤔 Apache [Dubbo](https://github.com/apache/dubbo) / [apolloconfig](https://github.com/apolloconfig/apollo) PMC.
-* 😄 Concentrate on distributed services & **AI-native infrastructure**.
+* 🤖 Active contributor to [AgentScope Java](https://github.com/agentscope-ai/agentscope-java), working on agent runtime, model integrations, and state persistence.
+* 😄 Concentrate on distributed services, **AI-native infrastructure**, and agent systems.
 * 📫 joezou@apache.org || https://zouyx.github.io/about/
-* 🚀 Exploring the intersection of **LLMs**, **cloud native**, and **distributed systems**.
-* 🌱 Currently learning: **AI Agents**, **RAG pipelines**, and **LLM inference optimization**.
+* 🚀 Building and contributing at the intersection of **LLMs**, **cloud native**, and **distributed systems**.
+* 🌱 Currently exploring: **AI Agents**, **RAG pipelines**, and **LLM inference optimization**.
 * 🤝 Open to collaborate on AI + open-source distributed computing projects.
 * 🤔 Reject 996, WLB only.
 
